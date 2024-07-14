@@ -1,2 +1,3 @@
 Test git
 Feature1 rules!
+Feature2 is essential!!!!
